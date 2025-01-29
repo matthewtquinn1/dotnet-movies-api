@@ -1,0 +1,12 @@
+C:\Users\fulls\Development_Workspaces\Personal\MoviesApi\MovieReviews.Domain\bin\Debug\net8.0\MovieReviews.Domain.deps.json
+C:\Users\fulls\Development_Workspaces\Personal\MoviesApi\MovieReviews.Domain\bin\Debug\net8.0\MovieReviews.Domain.dll
+C:\Users\fulls\Development_Workspaces\Personal\MoviesApi\MovieReviews.Domain\bin\Debug\net8.0\MovieReviews.Domain.pdb
+C:\Users\fulls\Development_Workspaces\Personal\MoviesApi\MovieReviews.Domain\obj\Debug\net8.0\MovieReviews.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fulls\Development_Workspaces\Personal\MoviesApi\MovieReviews.Domain\obj\Debug\net8.0\MovieReviews.Domain.AssemblyInfoInputs.cache
+C:\Users\fulls\Development_Workspaces\Personal\MoviesApi\MovieReviews.Domain\obj\Debug\net8.0\MovieReviews.Domain.AssemblyInfo.cs
+C:\Users\fulls\Development_Workspaces\Personal\MoviesApi\MovieReviews.Domain\obj\Debug\net8.0\MovieReviews.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fulls\Development_Workspaces\Personal\MoviesApi\MovieReviews.Domain\obj\Debug\net8.0\MovieReviews.Domain.sourcelink.json
+C:\Users\fulls\Development_Workspaces\Personal\MoviesApi\MovieReviews.Domain\obj\Debug\net8.0\MovieReviews.Domain.dll
+C:\Users\fulls\Development_Workspaces\Personal\MoviesApi\MovieReviews.Domain\obj\Debug\net8.0\refint\MovieReviews.Domain.dll
+C:\Users\fulls\Development_Workspaces\Personal\MoviesApi\MovieReviews.Domain\obj\Debug\net8.0\MovieReviews.Domain.pdb
+C:\Users\fulls\Development_Workspaces\Personal\MoviesApi\MovieReviews.Domain\obj\Debug\net8.0\ref\MovieReviews.Domain.dll
