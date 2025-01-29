@@ -1,0 +1,15 @@
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\bin\Debug\net8.0\IReckonU.Application.deps.json
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\bin\Debug\net8.0\IReckonU.Application.dll
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\bin\Debug\net8.0\IReckonU.Application.pdb
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\bin\Debug\net8.0\IReckonU.Domain.dll
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\bin\Debug\net8.0\IReckonU.Domain.pdb
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\obj\Debug\net8.0\IReckonU.Application.csproj.AssemblyReference.cache
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\obj\Debug\net8.0\IReckonU.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\obj\Debug\net8.0\IReckonU.Application.AssemblyInfoInputs.cache
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\obj\Debug\net8.0\IReckonU.Application.AssemblyInfo.cs
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\obj\Debug\net8.0\IReckonU.Application.csproj.CoreCompileInputs.cache
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\obj\Debug\net8.0\IReckonU.8E3AFDA9.Up2Date
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\obj\Debug\net8.0\IReckonU.Application.dll
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\obj\Debug\net8.0\refint\IReckonU.Application.dll
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\obj\Debug\net8.0\IReckonU.Application.pdb
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Application\obj\Debug\net8.0\ref\IReckonU.Application.dll

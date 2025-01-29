@@ -1,0 +1,11 @@
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Domain\bin\Debug\net8.0\IReckonU.Domain.deps.json
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Domain\bin\Debug\net8.0\IReckonU.Domain.dll
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Domain\bin\Debug\net8.0\IReckonU.Domain.pdb
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Domain\obj\Debug\net8.0\IReckonU.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Domain\obj\Debug\net8.0\IReckonU.Domain.AssemblyInfoInputs.cache
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Domain\obj\Debug\net8.0\IReckonU.Domain.AssemblyInfo.cs
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Domain\obj\Debug\net8.0\IReckonU.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Domain\obj\Debug\net8.0\IReckonU.Domain.dll
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Domain\obj\Debug\net8.0\refint\IReckonU.Domain.dll
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Domain\obj\Debug\net8.0\IReckonU.Domain.pdb
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Domain\obj\Debug\net8.0\ref\IReckonU.Domain.dll

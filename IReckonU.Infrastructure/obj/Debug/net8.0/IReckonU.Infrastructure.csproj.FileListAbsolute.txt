@@ -1,0 +1,17 @@
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\bin\Debug\net8.0\IReckonU.Infrastructure.deps.json
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\bin\Debug\net8.0\IReckonU.Infrastructure.runtimeconfig.json
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\bin\Debug\net8.0\IReckonU.Infrastructure.dll
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\bin\Debug\net8.0\IReckonU.Infrastructure.pdb
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\bin\Debug\net8.0\IReckonU.Domain.dll
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\bin\Debug\net8.0\IReckonU.Domain.pdb
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\obj\Debug\net8.0\IReckonU.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\obj\Debug\net8.0\IReckonU.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\obj\Debug\net8.0\IReckonU.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\obj\Debug\net8.0\IReckonU.Infrastructure.AssemblyInfo.cs
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\obj\Debug\net8.0\IReckonU.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\obj\Debug\net8.0\IReckonU.81752C95.Up2Date
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\obj\Debug\net8.0\IReckonU.Infrastructure.dll
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\obj\Debug\net8.0\refint\IReckonU.Infrastructure.dll
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\obj\Debug\net8.0\IReckonU.Infrastructure.pdb
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\obj\Debug\net8.0\IReckonU.Infrastructure.genruntimeconfig.cache
+C:\Users\fulls\Development_Workspaces\Personal\IReckonU\IReckonU.Infrastructure\obj\Debug\net8.0\ref\IReckonU.Infrastructure.dll
