@@ -2,9 +2,11 @@ using MovieReviews.Application.Movies.Commands;
 using MovieReviews.Application.Movies.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MovieReviews.Api.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class MoviesController : ControllerBase
