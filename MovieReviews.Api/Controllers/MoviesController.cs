@@ -1,7 +1,5 @@
 using MovieReviews.Application.Movies.Commands;
 using MovieReviews.Application.Movies.Queries;
-using MovieReviews.Domain;
-using MovieReviews.Domain.Models;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -12,23 +10,23 @@ namespace MovieReviews.Api.Controllers
     public class MoviesController : ControllerBase
     {
         private readonly ILogger<MoviesController> _logger;
-        private readonly Mediator _mediator;
+        private readonly IMediator _mediator;
 
         public MoviesController(
             ILogger<MoviesController> logger,
-            Mediator mediator)
+            IMediator mediator)
         {
             _logger = logger;
             _mediator = mediator;
         }
 
         [HttpGet]
-        public async Task<IEnumerable<MovieDto>> Get()
+        public async Task<IActionResult> Get()
         {
             // TODO: Replace try catch with a middleware that catches exceptions and returns a proper response.
             try
             {
-                return await _mediator.Send(new GetMoviesQuery());
+                return Ok(await _mediator.Send(new GetMoviesQuery()));
             }
             catch (Exception e)
             {
@@ -38,13 +36,14 @@ namespace MovieReviews.Api.Controllers
         }
 
         [HttpPost]
-        public async Task<MovieDto> Post([FromBody] CreateMovieCommand command)
+        public async Task<IActionResult> Post([FromBody] CreateMovieCommand command)
         {
-            // TODO: Use a proper validation library to validate the command.
             // TODO: Replace try catch with a middleware that catches exceptions and returns a proper response.
             try
             {
-                return await _mediator.Send(command);
+                var result = await _mediator.Send(command);
+
+                return CreatedAtAction(nameof(Post), new { id = result.Id }, result);
             } 
             catch (Exception e)
             {

@@ -1,9 +1,10 @@
 ﻿using MovieReviews.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using MovieReviews.Application;
 
 namespace MovieReviews.Infrastructure.Persistance;
 
-public sealed class MovieReviewsDbContext : DbContext
+public sealed class MovieReviewsDbContext : DbContext, IApplicationContext
 {
     public DbSet<Movie> Movies { get; set; }
 
@@ -21,7 +22,7 @@ public sealed class MovieReviewsDbContext : DbContext
 
             entity
                 .Property(e => e.Id)
-                .HasDefaultValueSql("NewId()");
+                .HasDefaultValueSql("uuid_generate_v4()");
 
             entity
                 .Property(e => e.Title)

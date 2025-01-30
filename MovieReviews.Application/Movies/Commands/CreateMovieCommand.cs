@@ -27,6 +27,7 @@ public sealed class CreateMovieCommandHandler : IRequestHandler<CreateMovieComma
         {
             Title = request.Title,
             Description = request.Description,
+            Rating = request.Rating,
         });
         _ = await _context.SaveChangesAsync(cancellationToken);
 

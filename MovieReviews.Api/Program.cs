@@ -1,3 +1,4 @@
+using MovieReviews.Application;
 using MovieReviews.Infrastructure.Persistance;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,7 +10,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddApplicationServices();
+
 builder.Services.AddPersistence(builder.Configuration.GetConnectionString("MoviesDb")!);
+builder.Services.AddScoped<IApplicationContext>(serviceProvider => serviceProvider.GetRequiredService<MovieReviewsDbContext>());
 
 var app = builder.Build();
 

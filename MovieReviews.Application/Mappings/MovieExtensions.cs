@@ -10,6 +10,7 @@ public static class MovieExtensions
         return new MovieDto(
             movie.Id,
             movie.Title,
-            movie.Description);
+            movie.Description,
+            movie.Rating);
     }
 }
