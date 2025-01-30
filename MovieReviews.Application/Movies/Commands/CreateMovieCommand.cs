@@ -2,12 +2,14 @@
 using MovieReviews.Domain.Entities;
 using MovieReviews.Domain.Models;
 using MediatR;
+using System.ComponentModel.DataAnnotations;
 
 namespace MovieReviews.Application.Movies.Commands;
 
 public record CreateMovieCommand(
-    string Title,
-    string Description
+    [Required][MinLength(1)][MaxLength(225)] string Title,
+    [Required][MinLength(1)][MaxLength(225)] string Description,
+    [Required][Range(1, 5)] double Rating
 ) : IRequest<MovieDto>;
 
 public sealed class CreateMovieCommandHandler : IRequestHandler<CreateMovieCommand, MovieDto>
